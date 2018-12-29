@@ -1,0 +1,10 @@
+/*============ header style ============*/
+#header {
+	position:relative;
+	z-index:999;
+}
+
+.top-bar {
+	border:1px solid #f00;
+	height:50px;
+}
